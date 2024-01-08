@@ -1,3 +1,5 @@
+![image](https://github.com/Jyoshnajena/README/assets/111279509/b8d3e151-8138-44cb-a19a-d88a84aa390c)https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg
+
 <h1 align="center">Hi 👋, I'm Sasmita Jena</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
